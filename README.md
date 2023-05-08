@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ernesto Villegas</h1>
-<h3 align="center">Currently attending a Full Stack Web Development course at Codeup (March 2023 completion date).</h3>
+<h1 align="center">Hello 👋, I'm Ernesto Villegas</h1>
+<h3 align="center">Full Stack Web Developer</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestonmnvillegas&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ernestonmnvillegas/github-readme-stats)
 
